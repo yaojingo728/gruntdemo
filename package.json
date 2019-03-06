@@ -22,6 +22,7 @@
     "grunt-contrib-less": "^2.0.0",
     "grunt-htmlhint": "^0.9.13",
     "grunt-less": "^0.1.7",
+    "grunt-mocha-cli": "^4.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^6.0.2"
   }
