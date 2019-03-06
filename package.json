@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/yaojingo728/gruntdemo#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "grunt": "^1.0.3",
     "grunt-contrib-less": "^2.0.0",
     "grunt-htmlhint": "^0.9.13",
-    "grunt-less": "^0.1.7"
+    "grunt-less": "^0.1.7",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.0.2"
   }
 }
