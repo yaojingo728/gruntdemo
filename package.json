@@ -1,0 +1,30 @@
+{
+  "name": "gruntdemo",
+  "version": "1.0.0",
+  "description": "grunt课上demo",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-htmlhint": "^0.9.13"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-eslint": "0.0.5",
+    "grunt-eslint": "^21.0.0",
+    "gruntify-eslint": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaojingo728/gruntdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaojingo728/gruntdemo/issues"
+  },
+  "homepage": "https://github.com/yaojingo728/gruntdemo#readme"
+}
