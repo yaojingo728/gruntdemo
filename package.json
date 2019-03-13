@@ -23,6 +23,7 @@
     "grunt-htmlhint": "^0.9.13",
     "grunt-less": "^0.1.7",
     "grunt-mocha": "^1.2.0",
+    "grunt-mocha-cli": "^4.0.0",
     "mocha": "^6.0.2"
   },
   "directories": {
